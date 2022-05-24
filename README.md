@@ -31,6 +31,6 @@
   <img  width="38" height="36" alingn="left" src="./public/images/solidworks.png" alt="Solidworks" />
 </p>
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AlexandreWN/AlexandreWN/blob/output/github-contribution-grid-snake.svg)
 
 ### This readme.md was heavily based on my friend [rodrigo2019](https://github.com/rodrigo2019)
