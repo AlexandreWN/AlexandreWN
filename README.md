@@ -13,7 +13,7 @@
 
 ## Databases
 <p>
-  <img  height="38" alingn="left" src="./public/images/sql.png" alt="SQL" />
+  <img  height="38" alingn="left" src="./public/images/sql.jpg" alt="SQL" />
   <img  height="38" alingn="left" src="./public/images/mysql.png" alt="MySQL" />
 </p>
 
