@@ -1,7 +1,7 @@
 # 💻 Skill
 <br />
 
-![AlexandreWN stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreWN&hide_border=true&layout=compact&langs_count=16&theme=dracula)
+![AlexandreWN stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreWN&hide_border=true&layout=compact&langs_count=16&theme=radical)
 ![AlexandreWN stats](https://github-readme-stats.vercel.app/api?username=AlexandreWN&show_icons=true&theme=radical&hide=contribs,prs&cache_secons=1800&hide_border=true&include_all_commits=true&&count_private=true&count_ptivate=true)
 ## Languages
 <p>
